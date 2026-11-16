@@ -31,9 +31,24 @@ Chức năng:
 ## 5. Link ứng dụng Expo Snack
 
 [https://snack.expo.dev/@rahlanthien/a8aa52](https://snack.expo.dev/@rahlanthien/a8aa52)
+
+
 ## 6. Hình ảnh và code
 
-Sẽ bổ sung ảnh giao diện, code App.js, Header.js, Main.js và Footer.js.
+### Code App.js
+![Code App.js](Screenshot%202026-11-16%20095013.png)
+
+### Code Header.js
+![Code Header.js](Screenshot%202026-11-16%20095036.png)
+
+### Code Main.js
+![Code Main.js](Screenshot%202026-11-16%20095053.png)
+
+### Code Footer.js
+![Code Footer.js](Screenshot%202026-11-16%20095116.png)
+
+### Giao diện Shop Giày
+![Giao diện Shop Giày](Screenshot%202026-11-16%20095216.png)
 
 ## 7. Kết quả
 
