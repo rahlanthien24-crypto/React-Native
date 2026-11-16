@@ -30,8 +30,7 @@ Chức năng:
 
 ## 5. Link ứng dụng Expo Snack
 
-[https://snack.expo.dev/@rahlanthien/27ee6e](https://snack.expo.dev/@rahlanthien/27ee6e)
-
+[https://snack.expo.dev/@rahlanthien/a8aa52](https://snack.expo.dev/@rahlanthien/a8aa52)
 ## 6. Hình ảnh và code
 
 Sẽ bổ sung ảnh giao diện, code App.js, Header.js, Main.js và Footer.js.
