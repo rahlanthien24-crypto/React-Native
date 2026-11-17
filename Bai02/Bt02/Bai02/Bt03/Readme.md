@@ -26,7 +26,7 @@ Chức năng:
   hình ảnh, tên, giá, mô tả từng sản phẩm.
 
 ## 5. Link ứng dụng Expo Snack
-(https://snack.expo.dev/@rahlanthien/xxxxxx)
+(https://snack.expo.dev/@rahlanthien/productapp_rahlanthien)
 
 ## 6. Hình ảnh code và giao diện
 
